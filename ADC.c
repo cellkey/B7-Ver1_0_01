@@ -1,5 +1,5 @@
 #ifndef __ADC_C
-#define __ADC_C
+#define __ADC_C////////////////////////////////////////
 
 #include "define.h"
 extern eeprom BYTE SensorType[MAX_SEN_NUM];//= {0, 0, 0, 0, 0, 0, 0, 0};
